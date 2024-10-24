@@ -1,0 +1,47 @@
+body {
+    background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+}
+
+h2, h3 {
+    color: #343a40; 
+}
+
+.btn-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 5px; 
+}
+
+.table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 20px 0; 
+}
+
+.table thead {
+    background-color: #f8f9fa;
+}
+
+.table th, .table td {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.table th {
+    color: #495057;
+    font-weight: bold;
+}
+
+.table tbody tr:hover {
+    background-color: #f1f1f1; 
+}
+
+.table {
+    margin-top: 20px; 
+}
+
+.card {
+    margin-bottom: 20px; 
+}
